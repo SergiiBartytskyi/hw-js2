@@ -1,0 +1,21 @@
+{
+  "name": "hw-js2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergiiBartytskyi/hw-js2.git"
+  },
+  "keywords": [],
+  "author": "SERGII BARTYTSKYY <S.BARTYCJKYJ@GMAIL.COM>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergiiBartytskyi/hw-js2/issues"
+  },
+  "homepage": "https://github.com/SergiiBartytskyi/hw-js2#readme"
+}
